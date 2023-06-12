@@ -1,6 +1,7 @@
 # deploy-meter-reader_streamlit
 ### Industrial Meter Reader [Study Case]
 This project aim to study how we can read meter value from image using deep learning
+
 Reference: https://github.com/openvinotoolkit/openvino_notebooks/blob/main/notebooks/203-meter-reader/203-meter-reader.ipynb
 
 ### Video demo
